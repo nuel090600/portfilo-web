@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="w-full px-6 py-4 bg-black text-white flex justify-between items-center shadow-md fixed top-0 z-50">
       <Link to="/" className="text-xl font-bold tracking-widest">
-        ROBERT OMEGA
+        ADENUGA EMMANUEL
       </Link>
 
       {/* Desktop Nav */}

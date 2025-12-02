@@ -12,7 +12,7 @@ const Hero = () => {
  
       <div className="flex-1 text-left mt-10 md:mt-0">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 leading-tight">
-          HI, I AM <br /> ROBERT GARCIA.
+          HI, I AM <br /> ADENUGA EMMANUEL.
         </h1>
         <p className="text-gray-300 mb-6 max-w-md">
           A Equality-Centered front-end developer passionate about building

@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'Nuel House - Real Estate Platform',
     description: 'A modern real estate platform showcasing property listings with advanced filtering, image galleries, and contact features. Built with responsive design for optimal viewing on all devices.',
-    image: 'https://res.cloudinary.com/dqqectes0/image/upload/v1747941904/project1_ttzclg.svg',
+    image: 'https://res.cloudinary.com/dqqectes0/image/upload/v1764662309/Screenshot_2025_better_j2kvfv.png',
     tags: ['Real Estate'],
     projectInfo: {
       role: 'Full Stack Developer',
@@ -19,10 +19,10 @@ const projects = [
   {
     title: 'Emma Burgers - Restaurant Website',
     description: 'A delicious burger restaurant website featuring menu items, online ordering system, and restaurant information. Designed with food aesthetics and user-friendly navigation.',
-    image: 'https://res.cloudinary.com/dqqectes0/image/upload/v1747941904/project2_uttsae.svg',
+    image: 'https://res.cloudinary.com/dqqectes0/image/upload/v1764662445/Screenshot_2025_burger_qdsh5c.png',
     tags: ['Food & Restaurant'],
     projectInfo: {
-      role: 'Frontend Developer',
+      role: 'Full Stack Developer',
       year: '2024',
       team: 'Solo Project',
     },
@@ -34,11 +34,11 @@ const projects = [
   {
     title: 'Countries API - World Explorer',
     description: 'An interactive country information application that fetches data from REST Countries API. Features search, filtering by region, and detailed country profiles with borders and demographics.',
-    image: 'https://res.cloudinary.com/dqqectes0/image/upload/v1747941904/project3_rnl4gg.svg',
+    image: 'https://res.cloudinary.com/dqqectes0/image/upload/v1764662597/Screenshot_2025_country_can6q1.png',
     tags: ['API Integration'],
     projectInfo: {
       role: 'Frontend Developer',
-      year: '2024',
+      year: '2025',
       team: 'Solo Project',
     },
     links: {

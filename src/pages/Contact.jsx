@@ -12,7 +12,7 @@ const Contact = () => {
 
           <div>
             <p className="text-sm text-gray-300">
-              Say hello at <a href="mailto:robertgarcia@gmail.com" className="underline">robertgarcia@gmail.com</a>
+              Say hello at <a href="mailto:robertgarcia@gmail.com" className="underline">ehmmygal@gmail.com</a>
             </p>
             <p className="text-sm text-gray-300 mt-1">
               For more info, here’s my <a href="#" className="underline">resume</a>
@@ -28,7 +28,7 @@ const Contact = () => {
           </div>
 
           
-          <p className="text-xs text-gray-500 pt-12">© 2025 Robert Garcia</p>
+          <p className="text-xs text-gray-500 pt-12">© 2025 Adenuga Emmanuel</p>
         </div>
 
        
@@ -43,7 +43,7 @@ const Contact = () => {
               <input
                 type="text"
                 name="name"
-                placeholder="John Doe"
+                placeholder="Your Name?"
                 required
                 className="w-full bg-neutral-900 border border-gray-700 text-white px-4 py-2 rounded"
               />

@@ -10,11 +10,11 @@ function About() {
           <div className="text-left">
             <h2 className="text-4xl font-bold mb-6 tracking-tight">ABOUT ME</h2>
             <p className="text-gray-300 mb-6 text-lg leading-relaxed">
-              I am a front-end developer based in Sydney. Has Mechanical Engineering background.
+              I am a front-end developer based in Nigeria. Has Office Technology Management background.
             </p>
             <p className="text-gray-400 mb-8 leading-relaxed">
-              I am a front-end developer based in Sydney looking for exciting opportunities. Has
-              Mechanical Engineering background. Likes to focus on accessibility when creating
+              I am a front-end developer based in Nigeria looking for exciting opportunities. Has
+              Office Technology Management background. Likes to focus on accessibility when creating
               websites and applications to ensure users get the best experience. Currently, I'm enjoying
               React.js, Next.js, and everything about Web Development. During my free time, I enjoy
               playing football, photography and playing keyboard. Learning more to improve daily!
